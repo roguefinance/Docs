@@ -16,6 +16,6 @@ This mechanism creates demand for **ROG** by making it a ticket to:&#x20;
 * **rMAV**: earn voting power over a powerful liquidity mining program.
 * **ETH**: earn a widely liquid yield-bearing asset.
 
-(Soon: eROG holders share a portion of [Rogue OLM](../../tokenomics/rog-and-orog.md#option-liquidity-mining) proceeds)
+(Soon: eROG holders share a portion of [Rogue OLM](broken-reference) proceeds)
 
 Read about further **eROG** utility in the [next section](../vote-market/).

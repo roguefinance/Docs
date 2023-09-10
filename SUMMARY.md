@@ -20,15 +20,11 @@
   * [rMAV](stake/rogue-for-mav-lockers/rmav.md)
   * [🧰 How-to](stake/rogue-for-mav-lockers/how-to.md)
 
-## Tokenomics
-
-* [ROG & oROG](tokenomics/rog-and-orog.md)
-
 ## Earn
 
 * [Platform fees](earn/platform-fees/README.md)
   * [Revenue sharing](earn/platform-fees/revenue-sharing.md)
-  * [🧰 How-to ](earn/platform-fees/how-to.md)
+  * [🧰 How-to](earn/platform-fees/how-to.md)
 * [Vote market](earn/vote-market/README.md)
   * [🧰 How-to](earn/vote-market/how-to.md)
 
