@@ -28,7 +28,14 @@
 * [Vote market](earn/vote-market/README.md)
   * [🧰 How-to](earn/vote-market/how-to.md)
 
-## More
+## UX
 
-* [⛓ Multichain](more/multichain.md)
-* [⛽ Gas](more/gas.md)
+* [⛓ Multichain](ux/multichain.md)
+* [⛽ Gas](ux/gas.md)
+
+## about
+
+* [🚙    Release Schedule](about/release-schedule.md)
+* [🧪    Pre-Launch](about/pre-launch.md)
+* [🔐    Audit report](about/audit-report.md)
+* [🗃️    Contracts addresses](about/contracts-addresses.md)
