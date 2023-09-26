@@ -4,7 +4,7 @@
 
 ### Locker
 
-<table><thead><tr><th width="145.5">Network</th><th>Contract Address</th></tr></thead><tbody><tr><td><strong>Mainnet</strong></td><td><a href="https://etherscan.io/address/0x8F0F56472C3E5730B1EA2f444E7829288Da261E6#code">0x8F0F56472C3E5730B1EA2f444E7829288Da261E6</a></td></tr><tr><td><strong>Base</strong></td><td><a href="https://basescan.org/address/0x8F0F56472C3E5730B1EA2f444E7829288Da261E6#code">0x8F0F56472C3E5730B1EA2f444E7829288Da261E6</a></td></tr><tr><td><strong>BNB Chain</strong></td><td><a href="https://bscscan.com/address/0x8F0F56472C3E5730B1EA2f444E7829288Da261E6#code">0x8F0F56472C3E5730B1EA2f444E7829288Da261E6</a></td></tr><tr><td><strong>zkSync Era</strong></td><td><a href="https://explorer.zksync.io/address/0xb7F5b452B381a90bA10BdDe6D75C6a4Fd65A4239#contract">0xb7F5b452B381a90bA10BdDe6D75C6a4Fd65A4239</a></td></tr></tbody></table>
+<table><thead><tr><th width="145.5">Network</th><th>Contract Address</th></tr></thead><tbody><tr><td>Mainnet</td><td><a href="https://etherscan.io/address/0x8F0F56472C3E5730B1EA2f444E7829288Da261E6#code">0x8F0F56472C3E5730B1EA2f444E7829288Da261E6</a></td></tr><tr><td>Base</td><td><a href="https://basescan.org/address/0x8F0F56472C3E5730B1EA2f444E7829288Da261E6#code">0x8F0F56472C3E5730B1EA2f444E7829288Da261E6</a></td></tr><tr><td>BNB Chain</td><td><a href="https://bscscan.com/address/0x8F0F56472C3E5730B1EA2f444E7829288Da261E6#code">0x8F0F56472C3E5730B1EA2f444E7829288Da261E6</a></td></tr><tr><td>zkSync Era</td><td><a href="https://explorer.zksync.io/address/0xb7F5b452B381a90bA10BdDe6D75C6a4Fd65A4239#contract">0xb7F5b452B381a90bA10BdDe6D75C6a4Fd65A4239</a></td></tr></tbody></table>
 
 ### Rogue Multisig
 
