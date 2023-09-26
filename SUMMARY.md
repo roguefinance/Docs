@@ -1,21 +1,15 @@
 # Table of contents
 
-## Case-Study: Maverick AMM
+## Case-Study
 
-* [Overview](README.md)
-  * [Enhancements](case-study-maverick-amm/maverick-amm/enhancements.md)
-  * [Incentives dilemma](case-study-maverick-amm/maverick-amm/incentives-dilemma.md)
-  * [Boosted Positions](case-study-maverick-amm/maverick-amm/boosted-positions.md)
-  * [veMAV](case-study-maverick-amm/maverick-amm/vemav.md)
-* [Introducing Rogue](case-study-maverick-amm/readme/README.md)
-  * [🚥 Roadmap](case-study-maverick-amm/readme/roadmap.md)
-  * [🏁 Pre-Launch](case-study-maverick-amm/readme/pre-launch.md)
-
-## Getting Started
-
-* [👛 Connect a wallet](getting-started/connect-a-wallet.md)
-* [⛓ Chose a network](getting-started/chose-a-network.md)
-* [🪙 Approve tokens](getting-started/approve-tokens.md)
+* [Overview: Maverick AMM](README.md)
+  * [Enhancements](case-study/maverick-amm/enhancements.md)
+  * [Incentives dilemma](case-study/maverick-amm/incentives-dilemma.md)
+  * [Boosted Positions](case-study/maverick-amm/boosted-positions.md)
+  * [veMAV](case-study/maverick-amm/vemav.md)
+* [Introducing Rogue](case-study/readme/README.md)
+  * [🚥 Roadmap](case-study/readme/roadmap.md)
+  * [🏁 Pre-Launch](case-study/readme/pre-launch.md)
 
 ## Guides
 
@@ -31,12 +25,8 @@
   * [🍰 Fees & Revenue sharing](tokenomics/incentives/revenue-sharing.md)
 * [🏰 Governance](tokenomics/governance.md)
 
-## UX
-
-* [⛓ Multichain](ux/multichain.md)
-* [⛽ Gas](ux/gas.md)
-
 ## about
 
+* [⛓ Multichain](about/multichain.md)
 * [🛡 Audit report](about/audit-report.md)
 * [📬 Contracts addresses](about/contracts-addresses.md)

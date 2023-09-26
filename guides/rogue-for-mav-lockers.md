@@ -23,7 +23,7 @@ Holders wishing to lock their **MAV** can just do it on [rogue.xyz](broken-refer
 
 _veMAVs sit idle._
 
-On Maverick, [**veMAV**](../case-study-maverick-amm/maverick-amm/vemav.md#vemavs-role-in-liquidity-provision-and-boosted-positions) tokens are gained by locking **MAV**, Maverick's native token. However, once locked, these tokens cannot be unlocked or transferred until the lock period ends. This creates an illiquid asset that, while providing voting power and boosted LP yield on Maverick, limits the liquidity provider's flexibility and ability to react to market changes.
+On Maverick, [**veMAV**](../case-study/maverick-amm/vemav.md#vemavs-role-in-liquidity-provision-and-boosted-positions) tokens are gained by locking **MAV**, Maverick's native token. However, once locked, these tokens cannot be unlocked or transferred until the lock period ends. This creates an illiquid asset that, while providing voting power and boosted LP yield on Maverick, limits the liquidity provider's flexibility and ability to react to market changes.
 
 ### Liquify your votes
 

@@ -4,7 +4,7 @@ description: Detailing Maverick's voting system, introducing 'Ballot' and 'Bount
 
 # 🗳 Vote market
 
-The Maverick system allows **veMAV** holders to vote in order to direct **MAV** inflation. They can direct emissions into each of the supported [Boosted Positions](../case-study-maverick-amm/maverick-amm/boosted-positions.md).&#x20;
+The Maverick system allows **veMAV** holders to vote in order to direct **MAV** inflation. They can direct emissions into each of the supported [Boosted Positions](../case-study/maverick-amm/boosted-positions.md).&#x20;
 
 ### Introducing Ballot
 
@@ -14,7 +14,7 @@ On Rogue, **MAV** lockers give up a % of their voting power to the protocol. Thi
 
 ### Introducing Bounty
 
-Bounty is an incentives module where **eROG** holders can receive compensation from protocols interested in directing **veMAV**'s voting power. Protocols can provide Bounties for **eROG** holders to vote for a particular [Boosted Position](../case-study-maverick-amm/maverick-amm/boosted-positions.md). **eROG** holders can consult current bounties, vote for a Boosted Position then collect the Bounties in addition to their usual [rewards](../tokenomics/incentives/revenue-sharing.md).
+Bounty is an incentives module where **eROG** holders can receive compensation from protocols interested in directing **veMAV**'s voting power. Protocols can provide Bounties for **eROG** holders to vote for a particular [Boosted Position](../case-study/maverick-amm/boosted-positions.md). **eROG** holders can consult current bounties, vote for a Boosted Position then collect the Bounties in addition to their usual [rewards](../tokenomics/incentives/revenue-sharing.md).
 
 {% hint style="info" %}
 Ballots can only accept bounties of whitelisted ERC20 tokens.
