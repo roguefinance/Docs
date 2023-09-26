@@ -1,32 +1,33 @@
 # Table of contents
 
-* [Welcome to Rogue](README.md)
+## Case-Study: Maverick AMM
 
-## Overview
+* [Overview](README.md)
+  * [Enhancements](case-study-maverick-amm/maverick-amm/enhancements.md)
+  * [Incentives dilemma](case-study-maverick-amm/maverick-amm/incentives-dilemma.md)
+  * [Boosted Positions](case-study-maverick-amm/maverick-amm/boosted-positions.md)
+  * [veMAV](case-study-maverick-amm/maverick-amm/vemav.md)
+* [Introducing Rogue](case-study-maverick-amm/readme.md)
 
-* [Maverick AMM](overview/maverick-amm/README.md)
-  * [Enhancements](overview/maverick-amm/enhancements.md)
-  * [Incentives dilemma](overview/maverick-amm/incentives-dilemma.md)
-  * [Boosted Positions](overview/maverick-amm/boosted-positions.md)
-  * [veMAV](overview/maverick-amm/vemav.md)
-* [Go Rogue](overview/go-rogue.md)
+## Getting Started
 
-## Stake
+* [👛 Connect a wallet](getting-started/connect-a-wallet.md)
+* [⛓ Chose a network](getting-started/chose-a-network.md)
+* [🪙 Approve tokens](getting-started/approve-tokens.md)
 
-* [Rogue for Maverick AMM LPs](stake/rogue-for-maverick-amm-lps/README.md)
-  * [bpVaults](stake/rogue-for-maverick-amm-lps/bpvaults.md)
-  * [🧰 How-to](stake/rogue-for-maverick-amm-lps/how-to.md)
-* [Rogue for MAV lockers](stake/rogue-for-mav-lockers/README.md)
-  * [rMAV](stake/rogue-for-mav-lockers/rmav.md)
-  * [🧰 How-to](stake/rogue-for-mav-lockers/how-to.md)
+## Guides
 
-## Earn
+* [🔒 MAV locking](guides/rogue-for-mav-lockers.md)
+* [⚖ Liquidity Provision](guides/rogue-for-maverick-amm-lps.md)
+* [🗳 Vote market](guides/vote-market.md)
+* [⚡ Platform fees](guides/platform-fees.md)
 
-* [Platform fees](earn/platform-fees/README.md)
-  * [Revenue sharing](earn/platform-fees/revenue-sharing.md)
-  * [🧰 How-to](earn/platform-fees/how-to.md)
-* [Vote market](earn/vote-market/README.md)
-  * [🧰 How-to](earn/vote-market/how-to.md)
+## Tokenomics
+
+* [🎰 Incentives](tokenomics/incentives/README.md)
+  * [⛏ Liquidity Mining](tokenomics/incentives/liquidity-mining.md)
+  * [🍰 Fees & Revenue sharing](tokenomics/incentives/revenue-sharing.md)
+* [🏰 Governance](tokenomics/governance.md)
 
 ## UX
 
