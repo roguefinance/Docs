@@ -3,13 +3,13 @@
 ## Case-Study
 
 * [🔎 Overview: Maverick AMM](README.md)
-  * [Enhancements](case-study/maverick-amm/enhancements.md)
-  * [Incentives dilemma](case-study/maverick-amm/incentives-dilemma.md)
-  * [Boosted Positions](case-study/maverick-amm/boosted-positions.md)
-  * [veMAV](case-study/maverick-amm/vemav.md)
-* [💡 Introducing Rogue](case-study/readme/README.md)
+  * [Enhancements](case-study-maverick-amm/maverick-amm/enhancements.md)
+  * [Incentives dilemma](case-study-maverick-amm/maverick-amm/incentives-dilemma.md)
+  * [Boosted Positions](case-study-maverick-amm/maverick-amm/boosted-positions.md)
+  * [veMAV](case-study-maverick-amm/maverick-amm/vemav.md)
+* [Introducing Rogue](case-study-maverick-amm/readme.md)
   * [🚥 Roadmap](case-study/readme/roadmap.md)
-  * [🏁 Pre-Launch](case-study/readme/pre-launch.md)
+  * [🏁 Pre-Launch](about/pre-launch-guide.md)
 
 ## Guides
 
@@ -27,6 +27,6 @@
 
 ## about
 
-* [⛓ Multichain](about/multichain.md)
+* [⛓ Multichain](ux/multichain.md)
 * [🛡 Audit report](about/audit-report.md)
 * [📬 Contracts addresses](about/contracts-addresses.md)

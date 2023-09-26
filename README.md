@@ -13,7 +13,7 @@ layout:
     visible: false
 ---
 
-# Maverick AMM
+# 🔎 Overview: Maverick AMM
 
 The Maverick Protocol is a groundbreaking addition to the decentralized finance landscape, designed to serve as a robust infrastructure for traders, liquidity providers, DAO treasuries, and developers. It is powered by an innovative Automated Market Maker (AMM) that redefines the traditional market-making mechanisms.
 
