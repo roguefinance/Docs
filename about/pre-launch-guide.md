@@ -6,7 +6,7 @@ description: Learn about Rogue's Pre-Launch program.
 
 ### Why is there a Pre-launch?
 
-
+The purpose of this program is to bootstrap the initial share of **veMAV** held by Rogue. Until its end, users will be able to deposit their MAV tokens and receive rMAV.
 
 ### How to participate?
 
@@ -28,14 +28,16 @@ To participate, it’s simple:
 
 <figure><img src="../.gitbook/assets/Screenshot 2566-09-26 at 17.41.06.png" alt="" width="375"><figcaption></figcaption></figure>
 
-* Approve your MAV tokens
+* Approve your **MAV** tokens.
 
 <figure><img src="../.gitbook/assets/Screenshot 2566-09-26 at 17.41.51.png" alt="" width="375"><figcaption></figcaption></figure>
 
-* Deposit and receive rMAV tokens.
+* Deposit and receive **rMAV** tokens.
 
 <figure><img src="../.gitbook/assets/Screenshot 2566-09-26 at 17.42.46.png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
 ### Why would i participate?
+
+Depositors will be granted a share of Rogue’s incentive program : the longer you deposit, the bigger your share! Stay tuned for more…
