@@ -7,7 +7,7 @@
   * [Incentives dilemma](case-study-maverick-amm/maverick-amm/incentives-dilemma.md)
   * [Boosted Positions](case-study-maverick-amm/maverick-amm/boosted-positions.md)
   * [veMAV](case-study-maverick-amm/maverick-amm/vemav.md)
-* [💡 Introducing Rogue](case-study-maverick-amm/readme.md)
+* [Introducing Rogue](case-study-maverick-amm/readme.md)
   * [🚥 Roadmap](case-study/readme/roadmap.md)
   * [🏁 Pre-Launch](about/pre-launch-guide.md)
 
