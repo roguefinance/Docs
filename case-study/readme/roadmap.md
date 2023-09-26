@@ -6,6 +6,8 @@ description: Discover what's Rogue up to!
 
 To perfectly be in phase with the full Maverick AMM deployment, Rogue will launch in multiple phases.
 
+<figure><img src="../../.gitbook/assets/Roadmap.png" alt="" width="375"><figcaption><p>What's coming?</p></figcaption></figure>
+
 ### 1 **Pre-launch**
 
 * Deposit your MAV to help bootstrap Rogue's veMAV lock. You can withdraw at anytime until a preannounced date.
@@ -27,5 +29,3 @@ Once Rogue has attracted liquidity, we'll uncoverRogue's native token, ROG, and 
 ### 4 Integration with new yield sources
 
 Rogue will integrate with new liquidity sources
-
-<figure><img src="../../.gitbook/assets/Roadmap.png" alt="" width="375"><figcaption><p>What's coming?</p></figcaption></figure>
