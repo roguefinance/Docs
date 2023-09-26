@@ -15,19 +15,6 @@ layout:
 
 # ⚖ Liquidity Provision
 
-Rogue Protocol allows Maverick AMM's liquidity providers to:
-
-* Earn **MAV** emissions with a high boost without locking any MAV
-* Earn **ROG** rewards
-* Earn extra incentive tokens rewarded in their Boosted-Position (**USH**, **LBR**..)
-
-While paying:
-
-* Zero deposit and withdraw fees
-* Zero fees on extra incentive tokens
-
-Maverick's AMM Boosted Positions LPs just have to stake their LP tokens on [app.roguefinance.xyz](https://app.roguefinance.xyz).
-
 ## bpVaults
 
 ### Boost your yield
@@ -55,3 +42,18 @@ _bpLPs can be used as collateral in DeFi lending protocols by providing them as 
 **Keep it rogue**
 
 In addition to staking your LPs, on Rogue, you can provide and remove liquidity from Maverick Boosted Positions. We're building a full interface.
+
+### Why would I LP on Rogue?
+
+Rogue Protocol allows Maverick AMM's liquidity providers to:
+
+* Earn **MAV** emissions with a high boost without locking any MAV
+* Earn **ROG** rewards
+* Earn extra incentive tokens rewarded in their Boosted-Position (**USH**, **LBR**..)
+
+While paying:
+
+* Zero deposit and withdraw fees
+* Zero fees on extra incentive tokens
+
+Maverick's AMM Boosted Positions LPs just have to stake their LP tokens on [app.roguefinance.xyz](https://app.roguefinance.xyz).
