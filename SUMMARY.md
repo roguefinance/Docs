@@ -36,7 +36,7 @@
 
 ## about
 
-* [🚙    Release Schedule](about/release-schedule.md)
+* [🚙    Roadmap](about/roadmap.md)
 * [🧪    Pre-Launch](about/pre-launch.md)
 * [🔐    Audit report](about/audit-report.md)
 * [🗃️    Contracts addresses](about/contracts-addresses.md)
