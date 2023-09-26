@@ -6,7 +6,7 @@ description: Learn about Rogue's Pre-Launch program.
 
 ### Why is there a Pre-launch?
 
-The purpose of this program is to bootstrap the initial share of **veMAV** held by Rogue. Until its end, users will be able to deposit their MAV tokens and receive rMAV.
+The purpose of this program is to bootstrap the initial share of **veMAV** held by Rogue. Until its end, users will be able to deposit their MAV tokens and receive rMAV. You can withdraw your MAV tokens anytime until pre-anounced date.
 
 ### How to participate?
 
