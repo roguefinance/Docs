@@ -2,12 +2,12 @@
 
 ## Case-Study
 
-* [Overview: Maverick AMM](README.md)
+* [🔎 Overview: Maverick AMM](README.md)
   * [Enhancements](case-study/maverick-amm/enhancements.md)
   * [Incentives dilemma](case-study/maverick-amm/incentives-dilemma.md)
   * [Boosted Positions](case-study/maverick-amm/boosted-positions.md)
   * [veMAV](case-study/maverick-amm/vemav.md)
-* [Introducing Rogue](case-study/readme/README.md)
+* [💡 Introducing Rogue](case-study/readme/README.md)
   * [🚥 Roadmap](case-study/readme/roadmap.md)
   * [🏁 Pre-Launch](case-study/readme/pre-launch.md)
 
