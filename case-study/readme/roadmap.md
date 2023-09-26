@@ -4,7 +4,7 @@ description: Discover what's Rogue up to!
 
 # 🚥 Roadmap
 
-To perfectly be in phase with the full Maverick AMM deployment, Rogue will launch in multiple phases.
+To perfectly be in phase with Maverick AMM's deployment, Rogue will launch in multiple phases.
 
 <figure><img src="../../.gitbook/assets/Roadmap.png" alt="" width="375"><figcaption><p>What's coming?</p></figcaption></figure>
 
