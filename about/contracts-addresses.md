@@ -1,4 +1,4 @@
-# 🗃️    Contracts addresses
+# 📬 Contracts addresses
 
 ### Locker
 

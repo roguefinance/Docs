@@ -7,7 +7,9 @@
   * [Incentives dilemma](case-study-maverick-amm/maverick-amm/incentives-dilemma.md)
   * [Boosted Positions](case-study-maverick-amm/maverick-amm/boosted-positions.md)
   * [veMAV](case-study-maverick-amm/maverick-amm/vemav.md)
-* [Introducing Rogue](case-study-maverick-amm/readme.md)
+* [Introducing Rogue](case-study-maverick-amm/readme/README.md)
+  * [🚥 Roadmap](case-study-maverick-amm/readme/roadmap.md)
+  * [🏁 Pre-Launch](case-study-maverick-amm/readme/pre-launch.md)
 
 ## Getting Started
 
@@ -36,7 +38,5 @@
 
 ## about
 
-* [🚙    Roadmap](about/roadmap.md)
-* [🧪    Pre-Launch guide](about/pre-launch-guide.md)
-* [🔐    Audit report](about/audit-report.md)
-* [🗃️    Contracts addresses](about/contracts-addresses.md)
+* [🛡 Audit report](about/audit-report.md)
+* [📬 Contracts addresses](about/contracts-addresses.md)

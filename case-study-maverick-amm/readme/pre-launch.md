@@ -1,8 +1,4 @@
----
-description: Learn how to participate to Rogue's Pre-Launch program.
----
-
-# 🧪    Pre-Launch guide
+# 🏁 Pre-Launch
 
 How to participate:
 

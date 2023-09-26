@@ -1,4 +1,4 @@
-# 🔐    Audit report
+# 🛡 Audit report
 
 Rogue Locker Contract has been audited by an independent security researcher specialized in Solidity smart contracts auditing and bug hunting.
 
