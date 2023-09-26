@@ -37,6 +37,6 @@
 ## about
 
 * [🚙    Roadmap](about/roadmap.md)
-* [🧪    Pre-Launch](about/pre-launch.md)
+* [🧪    Pre-Launch guide](about/pre-launch-guide.md)
 * [🔐    Audit report](about/audit-report.md)
 * [🗃️    Contracts addresses](about/contracts-addresses.md)
