@@ -1,10 +1,8 @@
 ---
-description: Find all security related information below
+description: Find security related information below
 ---
 
 # 🛡 Security
 
-
-
-<table><thead><tr><th width="140.33333333333331">Contract</th><th>Audit Report</th><th>Deployed commit</th></tr></thead><tbody><tr><td><a href="https://github.com/roguefinance/rogue/blob/main/src/Locker.sol">Locker.sol</a></td><td><a href="https://github.com/roguefinance/rogue/blob/main/Rogue-Finance-Security-Review-Official.pdf">https://github.com/roguefinance/rogue/blob/main/Rogue-Finance-Security-Review-Official.pdf</a></td><td><a href="https://github.com/roguefinance/rogue/commit/037bb120849afdfa4617a4a440b1f4cc9a9d8f7d">https://github.com/roguefinance/rogue/commit/037bb120849afdfa4617a4a440b1f4cc9a9d8f7d</a></td></tr></tbody></table>
+<table><thead><tr><th width="140.33333333333331">Contract</th><th>Audit report</th><th>Deployed commit</th></tr></thead><tbody><tr><td><a href="https://github.com/roguefinance/rogue/blob/main/src/Locker.sol">Locker.sol</a></td><td><a href="https://github.com/roguefinance/rogue/blob/main/Rogue-Finance-Security-Review-Official.pdf">https://github.com/roguefinance/rogue/blob/main/Rogue-Finance-Security-Review-Official.pdf</a></td><td><a href="https://github.com/roguefinance/rogue/commit/037bb120849afdfa4617a4a440b1f4cc9a9d8f7d">https://github.com/roguefinance/rogue/commit/037bb120849afdfa4617a4a440b1f4cc9a9d8f7d</a></td></tr></tbody></table>
 
