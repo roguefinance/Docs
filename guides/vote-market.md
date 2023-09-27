@@ -4,23 +4,23 @@ description: Detailing Maverick's voting system, introducing 'Ballot' and 'Bount
 
 # 🗳 Vote market
 
-The Maverick system allows **veMAV** holders to vote in order to direct **MAV** inflation. They can direct emissions into each of the supported [Boosted Positions](../case-study-maverick-amm/maverick-amm/boosted-positions.md).&#x20;
+The Maverick ve-model system allows **veMAV** holders to vote in order to direct **MAV** inflation. They can direct emissions into each of the supported [Boosted Positions](../case-study-maverick-amm/maverick-amm/boosted-positions.md).&#x20;
 
 ### Introducing Ballot
 
-Ballot is a vote module where **eROG** holders can vote with a share of Rogue's **veMAV** voting power.
+Ballot is a vote module where **rMAV holders** can vote with a share of Rogue's **veMAV** voting power.
 
 On Rogue, **MAV** lockers give up a % of their voting power to the protocol. This loss is compensated by the liquidity of the position, allowing lockers to exit their position if needed, plus a whole set of [rewards](rogue-for-mav-lockers.md).
 
 ### Introducing Bounty
 
-Bounty is an incentives module where **eROG** holders can receive compensation from protocols interested in directing **veMAV**'s voting power. Protocols can provide Bounties for **eROG** holders to vote for a particular [Boosted Position](../case-study-maverick-amm/maverick-amm/boosted-positions.md). **eROG** holders can consult current bounties, vote for a Boosted Position then collect the Bounties in addition to their usual [rewards](../tokenomics/incentives/revenue-sharing.md).
+Bounty is an incentives module where **rMAV** holders can receive compensation from protocols interested in directing **veMAV**'s voting power. Protocols can provide Bounties for **rMAV** holders to vote for a particular [Boosted Position](../case-study-maverick-amm/maverick-amm/boosted-positions.md). **rMAV** holders can consult current bounties, vote for a Boosted Position then collect the Bounties in addition to their usual [rewards](../tokenomics/incentives/revenue-sharing.md).
 
 {% hint style="info" %}
 Ballots can only accept bounties of whitelisted ERC20 tokens.
 {% endhint %}
 
-Voters can also delegate their **eROG** to anyone or to Rogue Protocol itself. This allows users to accumulate rewards without the cost of having to vote every 2 weeks on-chain.
+Voters can also delegate their **rMAV** to anyone or to Rogue Protocol itself. This allows users to accumulate rewards without the cost of having to frequently vote on-chain.
 
 {% hint style="success" %}
 _On-chain Voting_
