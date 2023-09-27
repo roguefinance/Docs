@@ -28,5 +28,5 @@
 ## about
 
 * [⛓ Multichain](ux/multichain.md)
-* [🛡 Audit report](about/audit-report.md)
+* [🛡 Security](about/security.md)
 * [📬 Contracts addresses](about/contracts-addresses.md)
