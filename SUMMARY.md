@@ -20,10 +20,8 @@
 
 ## Tokenomics
 
-* [🎰 Incentives](tokenomics/incentives/README.md)
-  * [⛏ Liquidity Mining](tokenomics/incentives/liquidity-mining.md)
-  * [🍰 Fees & Revenue sharing](tokenomics/incentives/revenue-sharing.md)
 * [🏰 Governance](tokenomics/governance.md)
+* [🍰 Fees & Revenue sharing](tokenomics/revenue-sharing.md)
 
 ## about
 

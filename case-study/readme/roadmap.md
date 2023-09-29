@@ -11,7 +11,7 @@ To perfectly be in phase with Maverick AMM's deployment, Rogue will launch in mu
 ### 1 **Pre-launch**
 
 * Deposit your MAV to help bootstrap Rogue's veMAV lock. You can withdraw at anytime until a preannounced date.
-* This grants you access to Rogue's gamified Incentive Program: Revolt (details TBA).
+* This grants you access to Rogue's gamified Incentive Program: Uprising (details TBA).
 * During this phase, several features enhancing MAV deposits will be rolled out.
 
 ### 2 **Launch**&#x20;
