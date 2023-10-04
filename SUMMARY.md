@@ -13,8 +13,8 @@
 
 ## Guides
 
-* [🔒 MAV locking](guides/rogue-for-mav-lockers.md)
 * [⚖ Liquidity Provision](guides/rogue-for-maverick-amm-lps.md)
+* [🔒 MAV locking](guides/rogue-for-mav-lockers.md)
 * [🗳 Vote market](guides/vote-market.md)
 * [⚡ Platform fees](guides/platform-fees.md)
 
