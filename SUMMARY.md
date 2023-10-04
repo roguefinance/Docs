@@ -18,11 +18,6 @@
 * [🗳 Vote market](guides/vote-market.md)
 * [⚡ Platform fees](guides/platform-fees.md)
 
-## Tokenomics
-
-* [🏰 Governance](tokenomics/governance.md)
-* [🍰 Fees & Revenue sharing](tokenomics/revenue-sharing.md)
-
 ## about
 
 * [⛓ Multichain](ux/multichain.md)
