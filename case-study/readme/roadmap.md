@@ -1,7 +1,3 @@
----
-description: Discover what's Rogue up to!
----
-
 # 🚥 Roadmap
 
 To align with Maverick AMM's deployment schedule, Rogue will launch in multiple phases.
@@ -26,9 +22,9 @@ _Shortly after Maverick ve-model's stage 2._
 * [**Rogue's Vote-Market**](../../guides/vote-market.md)
 * [**Rogue's revenue model**](../../guides/platform-fees.md)
 
-### **Incentives and governance**&#x20;
+### **Incentives and governance**
 
-_Shortly after Launch_
+_Shortly after Launch_&#x20;
 
 Once Rogue has attracted liquidity, we'll ship $ROG, our native token and how it fits in the ecosystem.
 
