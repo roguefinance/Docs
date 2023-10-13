@@ -4,28 +4,36 @@ description: Discover what's Rogue up to!
 
 # 🚥 Roadmap
 
-To perfectly be in phase with Maverick AMM's deployment, Rogue will launch in multiple phases.
+To align with Maverick AMM's deployment schedule, Rogue will launch in multiple phases.
 
-<figure><img src="../../.gitbook/assets/Roadmap.png" alt="" width="375"><figcaption><p>What's coming?</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Roadmap Horizontal.png" alt=""><figcaption><p>What's coming?</p></figcaption></figure>
 
-### 1 **Pre-launch**
+### **Pre-launch**
 
-* Deposit your MAV to help bootstrap Rogue's veMAV lock. You can withdraw at anytime until a preannounced date.
-* This grants you access to Rogue's gamified Incentive Program: Uprising (details TBA).
-* During this phase, several features enhancing MAV deposits will be rolled out.
+_It started on October 2, 2023._
 
-### 2 **Launch**&#x20;
+* Deposit your MAV to help bootstrap Rogue's veMAV lock. You can withdraw at anytime until the lock.
+* This grants you access to Rogue's Incentive Program: Uprising (details TBA).
 
-Shortly after Maverick ve-model stage 2 goes live, Rogue will deploy the full protocol
+### **Launch**&#x20;
+
+_Shortly after Maverick ve-model's stage 2._
+
+&#x20;Rogue will deploy the full protocol:
 
 * [**Rogue's MAV Liquid-Locker**](../../guides/rogue-for-mav-lockers.md)
 * [**Rogue's Liquidity Boosters**](../../guides/rogue-for-maverick-amm-lps.md)
 * [**Rogue's Vote-Market**](../../guides/vote-market.md)
+* [**Rogue's revenue model**](../../guides/platform-fees.md)
 
-### 3 **Incentives and governance (shortly after Launch Phase)**
+### **Incentives and governance**&#x20;
 
-Once Rogue has attracted liquidity, we'll uncoverRogue's native token, ROG, and how its fit in the ecosystem.
+_Shortly after Launch_
 
-### 4 Integration with new yield sources
+Once Rogue has attracted liquidity, we'll ship $ROG, our native token and how it fits in the ecosystem.
+
+### Integration with new yield sources
+
+_It's on the table_
 
 Rogue will integrate with new liquidity sources
