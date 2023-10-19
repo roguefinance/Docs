@@ -14,7 +14,7 @@ _Rogue provides an intertwined framework to interact with Maverick AMM_
 
 Once locked, **veMAV** tokens cannot be unlocked or transferred until the lock period ends. The result is an illiquid asset that, while providing voting power limits the flexibility and ability to react to market changes.
 
-Rogue solves this by giving you back a **veMAV** synthetic: Rogue-MAV ([**rMAV**](broken-reference)**)** when you lock your **MAV** on [app.roguefinance.xyz](https://app.roguefinance.xyz). You are effectively keeping the perks of locking but can exit whenever you want.
+Rogue solves this by giving you back a **veMAV** synthetic: Rogue-MAV (**rMAV)** when you lock your **MAV** on [roguefinance.xyz](https://roguefinance.xyz). You are effectively keeping the perks of locking but can exit whenever you want.
 
 ### Positive loop
 

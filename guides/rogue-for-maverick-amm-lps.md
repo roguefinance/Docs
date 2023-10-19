@@ -54,4 +54,4 @@ While paying:
 * Zero deposit and withdraw fees
 * Zero fees on extra incentive tokens
 
-Maverick's AMM Boosted Positions LPs just have to stake their LP tokens on [app.roguefinance.xyz](https://app.roguefinance.xyz).
+Maverick's AMM Boosted Positions LPs just have to stake their LP tokens on [roguefinance.xyz](https://roguefinance.xyz/).

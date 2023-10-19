@@ -36,4 +36,4 @@ Furthermore, liquidity providers would gain from having more stakes in Maverick'
 \
 _**Rogue Protocol has been designed for these very purposes!**_&#x20;
 
-Learn more in the [next section](broken-reference).
+Learn more in the [next section](../).

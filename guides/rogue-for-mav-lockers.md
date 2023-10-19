@@ -46,6 +46,6 @@ Rogue rewards **MAV** lockers on the Rogue platform making it an ideal destinati
 * Get [bounties](vote-market.md#introducing-bounty) for voting
 * Claim **veMAV** airdrops (to the best of our abilities)
 
-(Soon: MAV lockers will share of Rogue's [OLM proceeds](broken-reference) in stablecoins)
+(Soon: MAV lockers will share of Rogue's OLM proceeds in stablecoins)
 
-Holders wishing to lock their **MAV** can just do it on [rogue.xyz](broken-reference).
+Holders wishing to lock their **MAV** can just do it on [roguefinance.xyz](https://roguefinance.xyz/).
